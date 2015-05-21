@@ -4,6 +4,7 @@
     <string name="app_name">Test1</string>
     <string name="hello_world">Hello world!</string>
     <string name="action_settings">Settings</string>
+    <string name="action_refresh" translatable = "false">Refresh</>
 
 
 </resources>
